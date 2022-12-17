@@ -6,3 +6,5 @@
 asciinema brain-even: https://asciinema.org/a/538196
 
 asciinema brain-calc: https://asciinema.org/a/546368
+
+asciinema brain-gcd: https://asciinema.org/a/546383
