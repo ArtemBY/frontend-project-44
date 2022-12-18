@@ -15,10 +15,7 @@ const progression = (startNumber, step) => {
 };
 
 const getCloneArr = (arr) => {
-  const newArr = [];
-  for (const item of arr) {
-    newArr.push(item);
-  }
+  const newArr = arr.map((item) => item);
   return newArr;
 };
 
@@ -41,8 +38,14 @@ const checkAnswer = (expression, coll) => {
 };
 
 const generatorGame = () => {
-  const startNumber = getRandomNumber(1, 15);
-  const step = getRandomNumber(2, 8);
+  const minNumber = 1;
+  const maxNumber = 15;
+  const startNumber = getRandomNumber(minNumber, maxNumber);
+
+  const minStep = 2;
+  const maxStep = 8;
+  const step = getRandomNumber(minStep, maxStep);
+
   const coll = progression(startNumber, step);
   const expression = hintItem(coll);
   const correctAnswer = checkAnswer(expression, coll);
