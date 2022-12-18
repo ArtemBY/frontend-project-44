@@ -3,7 +3,7 @@
 import getRandomNumber from '../generatorRandomNumber.js';
 import game from '../index.js';
 
-const condition = 'What number is mission in the progression';
+const condition = 'What number is missing in the progression?';
 
 const progression = (startNumber, step) => {
   const coll = [startNumber];
