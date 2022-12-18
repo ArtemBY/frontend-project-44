@@ -31,14 +31,14 @@ brain-progression
 
 brain-prime
 
-## See askinems
+## Watch games
 
-asciinema brain-even: [![asciicast](https://asciinema.org/a/538196.svg)](https://asciinema.org/a/538196)
+Brain-even: [![asciicast](https://asciinema.org/a/538196.svg)](https://asciinema.org/a/538196)
 
-asciinema brain-calc: [![asciicast](https://asciinema.org/a/546368.svg)](https://asciinema.org/a/546368)
+Brain-calc: [![asciicast](https://asciinema.org/a/546368.svg)](https://asciinema.org/a/546368)
 
-asciinema brain-gcd: [![asciicast](https://asciinema.org/a/546383.svg)](https://asciinema.org/a/546383)
+Brain-gcd: [![asciicast](https://asciinema.org/a/546383.svg)](https://asciinema.org/a/546383)
 
-asciinema brain-progression: [![asciicast](https://asciinema.org/a/546588.svg)](https://asciinema.org/a/546588)
+Brain-progression: [![asciicast](https://asciinema.org/a/546588.svg)](https://asciinema.org/a/546588)
 
-asciinema brain-prime: [![asciicast](https://asciinema.org/a/546553.svg)](https://asciinema.org/a/546553)
+Brain-prime: [![asciicast](https://asciinema.org/a/546553.svg)](https://asciinema.org/a/546553)
