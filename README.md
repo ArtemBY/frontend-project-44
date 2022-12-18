@@ -9,6 +9,15 @@ This repository is created an educational project of student of Hexlet.
 
 make instal
 
+## Start the game
+
+brain-games
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
+
 ## See askinems
 
 asciinema brain-even: https://asciinema.org/a/538196
