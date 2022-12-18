@@ -1,7 +1,5 @@
 This repository is created an educational project of student of Hexlet.
 
-# nodejs-package
-
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ArtemBY/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/ArtemBY/frontend-project-44/actions)
 
@@ -10,9 +8,8 @@ This repository is created an educational project of student of Hexlet.
 ## Setup
 
 make instal
----
 
-# See askinems
+## See askinems
 
 asciinema brain-even: https://asciinema.org/a/538196
 
