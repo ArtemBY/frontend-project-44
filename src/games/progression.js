@@ -38,6 +38,7 @@ const checkAnswer = (expression, coll) => {
 };
 
 const generatorGame = () => {
+  const separator = ' ';
   const minNumber = 1;
   const maxNumber = 15;
   const startNumber = getRandomNumber(minNumber, maxNumber);
@@ -47,8 +48,9 @@ const generatorGame = () => {
   const step = getRandomNumber(minStep, maxStep);
 
   const coll = progression(startNumber, step);
-  const expression = hintItem(coll);
-  const correctAnswer = checkAnswer(expression, coll);
+  const collWithHintItem = hintItem(coll);
+  const correctAnswer = checkAnswer(collWithHintItem, coll);
+  const expression = collWithHintItem.join(separator);
   return [expression, correctAnswer];
 };
 
