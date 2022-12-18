@@ -12,3 +12,5 @@ asciinema brain-gcd: https://asciinema.org/a/546383
 asciinema brain-progression: https://asciinema.org/a/546541
 
 asciinema brain-prime: https://asciinema.org/a/546553
+
+asciinema full game brain-games: https://asciinema.org/a/546559
